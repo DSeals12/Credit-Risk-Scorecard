@@ -130,3 +130,5 @@ streamlit run app/streamlit_app.py
 - Model validation: KS statistic, Gini coefficient, ROC/AUC
 - Cut-off strategy analysis balancing approval rate vs. credit loss
 - End-to-end ML pipeline from raw data to deployed Streamlit application
+
+📊 [View rendered notebook with charts](https://nbviewer.org/github/DSeals12/Credit-Risk-Scorecard/blob/main/notebooks/scorecard_development.ipynb)
