@@ -1,6 +1,6 @@
 # Credit Risk Scorecard & Application Approval Simulator
 
-**Author:** Denzel C. Seals | Senior Analyst - Coporate Development  
+**Author:** Denzel C. Seals | Senior Analyst - Corporate Development  
 **Domain:** Consumer Credit Risk — Underwriting & Model Validation  
 **Stack:** Python · Scikit-learn · Pandas · Plotly · Streamlit  
 **Dataset:** [Give Me Some Credit](https://www.kaggle.com/c/GiveMeSomeCredit) (Kaggle, 150K applicants)
